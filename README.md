@@ -1,4 +1,4 @@
 # iOS 3D Model Viewer
 
 
-![](preview.gif)
+![](preview.mp4)
